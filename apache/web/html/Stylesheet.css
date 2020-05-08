@@ -1,0 +1,237 @@
+*{
+    margin: 0px;
+    margin-top: 0px
+        
+}
+h1{
+    font-family:  Courier New, monospace;
+    width: 90%;
+    font-size: 57px;
+    margin-left: 28px;
+    margin-top: 0px;
+}
+
+footer {
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+    color: white;
+    background-color: rgba(0,0,0,0.5);
+    text-align: left left;
+}
+#header-text{
+	background-color: rgba(0,0,0,0.6);
+    color: whitesmoke;
+    text-align: left;
+    height: 118px;
+    margin-top: 0px;
+    margin-left: 0px;
+    }
+#img {
+        float: right;
+        margin-top: 0px; 
+        width: 280px
+    }
+#imgdiv{
+    width: 30%;
+    float: right;
+    margin: 2px;
+    background-size: 50%;
+    height: 50%
+    }
+body {
+    background-image: url(../img/galerie/St.jpeg);
+	background-repeat:repeat;
+    background-position:top left;
+    background-color: black;
+    background-size: 1600px;
+}
+#Navigation{
+    background-color: rgba(0,0,0,0.6);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 1%;
+    padding-right: 8%;
+}
+button{
+  color: white;
+  padding: 8px 20px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+}
+button:hover{
+    background-color: #3e8e41;
+    margin-right: 4px;
+    margin-left: 4px;
+    }
+button:active {
+    background-color: #3e8e41;
+    transform: translateY(3px); 
+}
+a {
+    text-decoration:none;
+    color: white
+}
+#p1{
+    background-color: rgba(0,0,0,0.6);
+    font-family: cursive;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 1%;
+    margin-left: 320px;
+    margin-right: 300px;
+    color: white;
+    font-size: 16px;
+    margin-top: -537px;
+}
+#Add{
+    background-color: rgba(0,0,0,0.6);
+    font-family: cursive;
+    color: white;
+    margin-right: 80%;
+    padding-left: 1%;
+}
+#pimg{
+    margin-left: 0px;
+    width: 10%;
+    margin-top: -160px;
+} 
+#p3{
+    font-family: cursive;
+    text-align: justify;
+    float: right;
+    padding-right: 3%;
+    margin-top: -33.5%;
+    margin-left: 250px;
+    margin-right: 130px;
+    color: white;
+    font-size: 18px;
+    }
+#p2{
+    background-color: rgba(0,0,0,0.6);
+    font-family: cursive;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%;
+    margin-left: 320px;
+    margin-right: 300px;
+    color: white;
+    font-size: 18px;
+    margin-top: 0px;
+    padding-bottom: 2%;
+}
+#pimg1{
+    margin-left: 50px;
+    width: 22%;
+    margin-top: -160px;
+}
+#portlinks {
+    margin-left: 0px
+}
+
+
+
+
+/* Dropdown Button*/
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    color: white;
+    font-size: 18px;
+    font-family: cursive;
+}
+
+.dropdown-content a {
+    color: white;
+    background-color: rgba(0,0,0,0.6);
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    width: 220px;
+}
+
+.dropdown-content a:hover {background-color: rgba(0,0,0,0.8)}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+#fische{
+    float: right;
+    height: 70px;    
+}
+#p9{
+    background-color: rgba(0,0,0,0.6);
+    font-family: cursive;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 1%;
+    margin-left: 300px;
+    margin-right: 300px;
+    color: white;
+    font-size: 18px;
+    margin-top: -115px;
+}
+
+#footer2 {
+	position: absolute;
+	width: 100%;
+	bottom: inherit;
+    color: white;
+    background-color: rgba(0,0,0,0.5);
+    text-align: left left;
+}
+#gal{
+    width: 49%;
+}
+#gal1{
+    width: 38%;
+}
+#form{
+    margin-left: 20%;
+    margin-top: -17%;
+}
+td{
+    */background-color: aliceblue;
+    color: white;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 17px;
+}
+input{
+    font-size: 16px;
+}
+table{
+    margin-left: 20%;
+    margin-top: -22%;
+}
+#i {
+    margin-left: 45%
+}
